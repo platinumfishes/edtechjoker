@@ -52,9 +52,6 @@ More to read: https://www.coursera.org/articles/front-end-developer, https://boo
 
 
 ## VSCode
-Visual Studio Code, commonly known as VScode, is a source code editor created by everyone's favorite company Microsoft. Features include debugging, syntax highlighting, code completion, snippets, code refactoring and Git. VScode is a useful tool to wrtie a multitude of coding languages in a singular loaction/application.
-https://code.visualstudio.com/
-https://en.wikipedia.org/wiki/Visual_Studio_Code
 
 
 ## Syntactically Awesome Style Sheets (Sass)
@@ -148,7 +145,10 @@ Read more about the history of Python here: https://www.geeksforgeeks.org/histor
 
 
 ## Docker
+Docker is an open platform that uses OS virtualization to develop, ship, and run apps. It enables you to seperate applications from infrastructure so that software may be delivered quickly
 
+*Has free and premium license options
+*Started in 2013, developed by Docker INC
 
 ## Vagrant
 
